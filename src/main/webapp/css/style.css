@@ -1,0 +1,21 @@
+.custom-bg{
+    background-color: #00838f!important;
+}
+
+.admin .card{
+     
+     border: 1px solid #00838f;
+    
+}
+
+.admin .card:hover{
+     
+    background: #e2e2e2;
+    cursor: pointer;
+}
+
+.list-group-item.active{
+     background-color: #00838f!important;
+     border-color:#00838f!important;
+}
+
